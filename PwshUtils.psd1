@@ -12,6 +12,7 @@
 
     PrivateData = @{
         PSData = @{
+            readme       = 'README.md'
             Tags         = @('Utility','Unix','Random','Text')
             LicenseUri   = 'https://opensource.org/licenses/MIT'
             ProjectUri   = 'https://github.com/aelberthcheong/PwshUtils'
