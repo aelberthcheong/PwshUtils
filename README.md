@@ -27,3 +27,4 @@ for example:
 ## CmdLets
 - `Get-ShuffledItem` -- Shuffle pipeline input
 - `Get-LoremIpsum`   -- Generate Lorem Ipsum text
+- `Set-DeveloperEnv` -- Basically just running `vsvarsall.bat`
