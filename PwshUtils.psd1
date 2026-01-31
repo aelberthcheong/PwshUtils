@@ -8,7 +8,7 @@
     Author               = 'Aelberth Cheong'
     Description          = 'Utility cmdlets most of them are based upon common Unix utility binaries.'
 
-    FunctionsToExport    = @('Get-ShuffledItem', 'Get-LoremIpsum', 'Set-DeveloperEnv')
+    FunctionsToExport    = @('Get-ShuffledItem', 'Get-LoremIpsum', 'Set-DeveloperEnv', 'Test-IsAdministrator')
     AliasesToExport      = @('shuf', 'shuffle', 'lorem')
 
     PrivateData = @{
